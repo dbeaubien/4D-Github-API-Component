@@ -1,0 +1,12 @@
+//%attributes = {"invisible":true}
+C_OBJECT:C1216(GIT_GetFileFromRepo ;$0)
+C_TEXT:C284(GIT_GetFileFromRepo ;$1)
+C_TEXT:C284(GIT_GetFileFromRepo ;$2)
+C_TEXT:C284(GIT_GetFileFromRepo ;$3)
+C_COLLECTION:C1488(GIT_GetRepoContent ;$0)
+C_TEXT:C284(GIT_GetRepoContent ;$1)
+C_TEXT:C284(GIT_GetRepoContent ;$2)
+C_TEXT:C284(GIT_GetRepoContent ;$3)
+C_OBJECT:C1216(GIT_GetRepoInformation ;$0)
+C_TEXT:C284(GIT_GetRepoInformation ;$1)
+C_TEXT:C284(GIT_GetRepoInformation ;$2)
